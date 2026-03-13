@@ -42,7 +42,7 @@ const LINKS = {
   linktree: "https://linktr.ee/derrick.painandperformance",
 };
 
-export default function DerrickLanding() {
+export default function DerrickLanding(derrickpainandperformance.github.io) {
   const [hoverPain, setHoverPain] = useState(false);
   const [hoverPerf, setHoverPerf] = useState(false);
 
